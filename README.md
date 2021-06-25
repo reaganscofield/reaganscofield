@@ -11,7 +11,7 @@
 <h4 align="left"><a href="https://www.aura.services/our-team/"><b> Work Website</b></a> </h4> <br>
 - 🔭 I’m currently working with JavaScript, TypeScript, Java☕ & Python🐍
 
-- 🌱 I’m currently AI, ML and DL etc**
+- 🌱 I’m currently Learning AI, ML and DL etc**
 
 - 📝 I regularly write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
 
