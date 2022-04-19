@@ -8,12 +8,12 @@
 
 <h3 align="left">About Me</h3>
 
-<h4 align="left"><a href="https://www.aura.services/our-team/"><b> Work Website</b></a> </h4> <br>
+<h4 align="left"><a href="https://www.aura.services/our-team/"><b>AURA</b></a> </h4> <br>
 - 🔭 I’m currently working with JavaScript, TypeScript, Java☕ & Python🐍
 
-- 🌱 I’m currently Learning AI, ML and DL etc**
+- 🌱 I’m currently Studying AI, ML and DL etc**
 
-- 📝 I regularly write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
+- 📝 I sometimes write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
 
 - ⚡ Fun fact- ** Gamer, Optimist, Learner⚡ I am quiet person and only talk when I am being spoken to**
 
