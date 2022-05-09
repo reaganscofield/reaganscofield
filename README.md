@@ -1,6 +1,6 @@
 <h1 align= "center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Reagan Scofield</h1>
 <h2 align="center">Lead Software Engineer ⚡</h2>
-<h4 align="center">BSc Computer Science 🏫</h4>
+<h4 align="center">B.Sc Computer Science 🏫</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> <a href="https://twitter.com/@ReaganScofield" target="blank"><img src="https://img.shields.io/twitter/follow/ReaganScofield?logo=twitter&style=for-the-badge" alt="@ReaganScofield" /></a> </p> 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="300" width="300">
@@ -9,11 +9,11 @@
 <h3 align="left">About Me</h3>
 
 <h4 align="left"><a href="https://www.aura.services/our-team/"><b> Work Website</b></a> </h4> <br>
-- 🔭 I’m currently working with JavaScript, TypeScript, Java☕ & Python🐍
+- 🔭 I’m currently working with JavaScript, TypeScript, Java ☕ & Python 🐍
 
 - 🌱 I’m currently Learning AI, ML and DL etc**
 
-- 📝 I regularly write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
+- 📝 I sometimes write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
 
 - ⚡ Fun fact- ** Gamer, Optimist, Learner⚡ I am quiet person and only talk when I am being spoken to**
 
