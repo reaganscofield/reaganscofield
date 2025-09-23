@@ -8,7 +8,9 @@
 
 <h3 align="left">About Me</h3>
 
-<h4 align="left"><a href="https://www.aura.services/our-team/"><b> Work Website</b></a> </h4> <br>
+<p>Innovative and results-driven Software Engineer with 5+ years of experience in full-stack development, DevOps, and cloud infrastructure. Proven track record in designing scalable systems, implementing CI/CD pipelines, and optimizing databases for performance. Strong collaborator with expertise in Agile methodologies, microservices architecture, and mentoring junior engineers. Passionate about delivering high-quality software that drives business impact.</p>
+
+<h4 align="left"><a href="https://aura.services/meet-the-team/"><b> Work Website</b></a> </h4> <br>
 - 🔭 I’m currently working with JavaScript, TypeScript, Java ☕ & Python 🐍
 
 - 🎓📚✍️ I am currently pursuing a Master of Science in Computer Science, specializing in Machine Learning, Natural Language Processing, and AI Engineering.**
