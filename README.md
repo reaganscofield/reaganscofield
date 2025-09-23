@@ -1,4 +1,4 @@
-<h1 align= "center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Reagan Scofield</h1>
+<h1 align= "center">Bonjour! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Reagan Scofield</h1>
 <h2 align="center">Lead Software Engineer ⚡</h2>
 <h4 align="center">B.Sc Computer Science 🏫</h4>
 
@@ -11,13 +11,13 @@
 <h4 align="left"><a href="https://www.aura.services/our-team/"><b> Work Website</b></a> </h4> <br>
 - 🔭 I’m currently working with JavaScript, TypeScript, Java ☕ & Python 🐍
 
-- 🌱 I’m currently Learning AI, ML and DL etc**
+- 🎓📚✍️ I am currently pursuing a Master of Science in Computer Science, specializing in Machine Learning, Natural Language Processing, and AI Engineering.**
 
-- 📝 I sometimes write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
+- 📝 I occasionally write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
 
-- ⚡ Fun fact- ** Gamer, Optimist, Learner⚡ I am quiet person and only talk when I am being spoken to**
+- Fun fact — Gamer, Optimist, Learner ⚡ I am a quiet person and only talk when spoken to ⚡ **
 
-- 💬 You can ask me about **Projects, Science, Mentorship, etc**
+- 💬 Feel free to ask me about Projects, Science, Mentorship, Politics, and — most importantly — Jesus, whom I love and follow daily.**
 <!-- 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scofieldreagan@outlook.com)](mailto:scofieldreagan@outlook.com)
