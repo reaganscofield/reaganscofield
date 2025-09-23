@@ -17,7 +17,7 @@
 
 - Fun fact — Gamer, Optimist, Learner ⚡ I am a quiet person and only talk when spoken to ⚡ **
 
-- 💬 Feel free to ask me about Projects, Science, Mentorship, Politics, and — most importantly — Jesus, whom I love and follow daily.**
+- 💬 Feel free to ask me about Projects, Science, Mentorship, Politics, and — most importantly — *JESUS CHRIST*, whom I love and follow daily.**
 <!-- 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scofieldreagan@outlook.com)](mailto:scofieldreagan@outlook.com)
