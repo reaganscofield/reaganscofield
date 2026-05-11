@@ -1,9 +1,31 @@
 <h1 align= "center">Bonjour! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Reagan Scofield</h1>
-<h2 align="center">Lead Software Engineer ⚡</h2>
-<h4 align="center">B.Sc Computer Science 🏫</h4>
+<h2 align="center">Lead Software | AI/ML Engineer ⚡</h2>
+<h4 align="center">B.Sc Honours Computer Science 🏫</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishirajcode&label=Profile%20views&color=0e75b6&style=flat" alt="rishirajcode" /> <br> <a href="https://twitter.com/@ReaganScofield" target="blank"><img src="https://img.shields.io/twitter/follow/ReaganScofield?logo=twitter&style=for-the-badge" alt="@ReaganScofield" /></a> </p> 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="300" width="300">
+<!-- <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="300" width="300"> -->
+
+
+
+<div align="center">
+  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Welcome">
+
+</div>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/reagan-scofield-mukandila-603287b5/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.reaganscofield.tech">
+        <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/reaganscofield">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+</p>
+
+---
 
 
 <h3 align="left">About Me</h3>
