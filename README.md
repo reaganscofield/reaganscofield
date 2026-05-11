@@ -118,13 +118,13 @@ Open to the following role opportunities:
 
 🎓 Education
 
-| 🏛 Institution | University of South Africa (UNISA) |
+| 🏛 Institution | University of South Africa |
 |---------------|-------------------------------------|
 | 🎓 Degree | Master of Science in Computer Science |
 | 🔬 Details | Full dissertation research on Machine Learning, Space Exploration, Mission Systems, and Automated Classification of Astronomical Objects. |
 | 📅 Period | 2026 – Present (In Progress) |
 
-| 🏛 Institution | University of South Africa (UNISA) |
+| 🏛 Institution | University of South Africa |
 |---------------|-------------------------------------|
 | 🎓 Degree | Bachelor of Science Honours in Computer Science |
 | 🧠 Details | Specialized in Machine Learning, Deep Learning, Software Engineering, Ontology Engineering, Logic-Based Reasoning, Computer Vision, and Natural Language Processing. |
