@@ -98,6 +98,23 @@
 | **Swahili** | Native     |
 
 
+## 💼 Open To Work
+
+Open to the following role opportunities:
+
+- ✅ Senior Software Engineer
+- ✅ Senior Backend Engineer
+- ✅ Full-Stack Engineer
+- ✅ Machine Learning Engineer
+- ✅ AI Engineer
+- ✅ Applied AI Engineer
+- ✅ Generative AI Engineer
+- ✅ LLM Engineer
+- ✅ Research ML Engineer
+- ✅ AI Platform Engineer
+- ✅ MLOps Engineer
+- ✅ Solutions Architect (AI/Backend)
+- ✅ Technical Lead / Engineering Lead
 
 
 
