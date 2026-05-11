@@ -116,6 +116,25 @@ Open to the following role opportunities:
 - ✅ Solutions Architect (AI/Backend)
 - ✅ Technical Lead / Engineering Lead
 
+🎓 Education
+
+| 🏛 Institution | University of South Africa (UNISA) |
+|---------------|-------------------------------------|
+| 🎓 Degree | Master of Science in Computer Science |
+| 🔬 Details | Full dissertation research on Machine Learning, Space Exploration, Mission Systems, and Automated Classification of Astronomical Objects. |
+| 📅 Period | 2026 – Present (In Progress) |
+
+| 🏛 Institution | University of South Africa (UNISA) |
+|---------------|-------------------------------------|
+| 🎓 Degree | Bachelor of Science Honours in Computer Science |
+| 🧠 Details | Specialized in Machine Learning, Deep Learning, Software Engineering, Ontology Engineering, Logic-Based Reasoning, Computer Vision, and Natural Language Processing. |
+| 📅 Period | 2024 – 2026 |
+
+| 🏛 Institution | Institut Supérieur de Statistique de Lubumbashi |
+|---------------|--------------------------------------------------|
+| 🎓 Degree | Bachelor of Science in Computer Science |
+| 📚 Details | Foundation in Computer Science, Mathematical Sciences, Life Sciences, and Physical Sciences. |
+| 📅 Period | 2010 – 2013 |
 
 
 
