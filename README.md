@@ -89,7 +89,13 @@
 
 ---
 
+## 🌐 Languages
 
+| Language    | Proficiency          |
+| ----------- | -------------------- |
+| **English**  | Professional Working  |
+| **French**    | Professional Working |
+| **Swahili** | Native     |
 
 
 
