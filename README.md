@@ -30,18 +30,17 @@
 
 <h3 align="left">About Me</h3>
 
-<p>Innovative and results-driven Software Engineer with 5+ years of experience in full-stack development, DevOps, and cloud infrastructure. Proven track record in designing scalable systems, implementing CI/CD pipelines, and optimizing databases for performance. Strong collaborator with expertise in Agile methodologies, microservices architecture, and mentoring junior engineers. Passionate about delivering high-quality software that drives business impact.</p>
+<p>I am an innovative and results-driven Software Engineer and Machine Learning Engineer with over 7+ years of experience building and scaling high-performance, real-time systems in production environments. My expertise spans full-stack development, distributed systems, DevOps, and cloud infrastructure, with a strong focus on reliability, scalability, and performance.</p>
 
-<h4 align="left"><a href="https://aura.services/meet-the-team/"><b> Work Website</b></a> </h4> <br>
-- 🔭 I’m currently working with JavaScript, TypeScript, Java ☕ & Python 🐍
+<p>I currently design and maintain mission-critical backend systems powering emergency response operations across South Africa, Kenya, the United Kingdom, and the United States, where system reliability directly impacts real-world outcomes. My work involves architecting event-driven and microservices-based systems, optimising PostgreSQL queries at scale, and implementing high-throughput APIs that support large, distributed user bases.</p>
 
-- 🎓📚✍️ I am currently pursuing a Master of Science in Computer Science, specializing in Machine Learning, Natural Language Processing, and AI Engineering.**
+<p>Beyond traditional software engineering, I actively integrate Machine Learning into production systems, designing models to predict responder behaviour (acceptance, decline, stand-down) using real-world operational data. I am deeply interested in building intelligent systems that move beyond static logic into decision-support and predictive capabilities, bridging the gap between backend engineering and applied AI.</p>
 
-- 📝 I occasionally write articles on <a href="https://dev.to/reaganscofield">**DEV.TO**</a>
+<p>My technical stack includes Python, Node.js, TypeScript, PostgreSQL, Redis, AWS, Docker, and modern data/ML tooling. I am particularly passionate about system design, performance engineering, and AI-driven backend systems.</p>
 
-- Fun fact — Gamer, Optimist, Learner ⚡ I am a quiet person and only talk when spoken to ⚡ **
+<p>I thrive in environments that demand ownership, impact, and precision, and I am driven by a mission to build software that is not only scalable and efficient, but also meaningful in the real world.</p>
 
-- 💬 Feel free to ask me about Projects, Science, Mentorship, Politics, and — most importantly — *JESUS CHRIST*, whom I love and follow daily.**
+
 <!-- 
 - Let's Connect <a href="https://www.linkedin.com/in/rishirajcode/">**LinkedIn**</a><br><br> -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scofieldreagan@outlook.com)](mailto:scofieldreagan@outlook.com)
