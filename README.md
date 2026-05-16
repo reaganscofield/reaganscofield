@@ -59,7 +59,15 @@
 
 ### **Generative AI & LLMs**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) 
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) 
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white) 
+![RAG](https://img.shields.io/badge/RAG-4285F4?style=flat-square&logoColor=white) 
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white) 
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Mastra AI](https://img.shields.io/badge/Mastra-5B21B6?style=flat-square&logo=mastra&logoColor=white)
 
 ### **Cloud & DevOps**
 
