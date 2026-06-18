@@ -91,9 +91,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=reaganscofield&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reaganscofield&show_icons=true&theme=tokyonight&hide_border=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reaganscofield&show_icons=true&theme=tokyonight&hide_border=true)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reaganscofield&layout=compact&theme=tokyonight&hide_border=true)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reaganscofield&layout=compact&theme=tokyonight&hide_border=true)-->
 
 ---
 
